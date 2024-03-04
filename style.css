@@ -6,7 +6,7 @@
 body{
     font-family: 'Poppins',sans-serif;
 }
-.terraria{
+.cabecalho{
     background-color: black;
     color: aliceblue;
     display:flex ;
@@ -14,10 +14,10 @@ body{
     align-items: center;
     padding: 24px 0;
 }
-.terraria{
+.cabecalho{
     width: 46%;
 }
-.terraria-lista-item{
+.cabecalho-lista-item{
     display: inline-block;
     margin:0 16px;
     font-size: 16px;
