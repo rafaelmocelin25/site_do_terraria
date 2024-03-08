@@ -14,9 +14,7 @@ body{
     align-items: center;
     padding: 24px 0;
 }
-.cabecalho{
-    width: 46%;
-}
+
 .cabecalho-lista-item{
     display: inline-block;
     margin:0 16px;
