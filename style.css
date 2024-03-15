@@ -31,3 +31,45 @@ padding: 24px 0;
 .sobre-o-jogo-img{
     width: 25%;
 }
+/* secao lojas*/
+.bosses{
+    background-color: #a9a9a9;
+}
+
+.bosses-titulo{
+color: #3B0050;
+text-align: center;
+padding: 50px;
+font-size: 45px;
+}
+
+.bosses-img{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.bosses.{
+    text-align: center;
+   
+}
+
+.bosses-img{
+    width: 20px;
+}
+.sobre-jogo{
+    font-weight: 100;
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+.bosses{
+    font-weight: 100;
+    text-decoration: underline;
+    color: orange;
+}
+.bosses-icone{
+    width: 30px;
+    padding: 5px 0 10px 0;
+}
+.bosses-icone{
+    width: 35px;
+    padding: 5px 0;
+}
