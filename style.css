@@ -43,7 +43,7 @@ padding: 50px;
 font-size: 45px;
 }
 
-.bosses-div{
+.bosses{
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
