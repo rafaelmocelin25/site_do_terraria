@@ -45,24 +45,19 @@ font-size: 45px;
 
 .bosses{
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 33% 33% 33%;
 }
 .bosses-img{
     text-align: center;
 }
 
 .bosses-img{
-    width: 300px;
+    width: 200px;
 }
 .sobre-jogo{
     font-weight: 100;
     text-decoration: underline;
     color: #FFFFFF;
-}
-.bosses-img{
-    font-weight: 100;
-    text-decoration: underline;
-    color: orange;
 }
 .bosses-icone{
     width: 39px;
