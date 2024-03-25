@@ -43,11 +43,11 @@ padding: 50px;
 font-size: 45px;
 }
 
-.bosses-img{
+.bosses{
     display: grid;
     grid-template-columns: 30% 30% 30%;
 }
-.bosses.{
+.bosses-IMG{
     text-align: center;
 }
 
